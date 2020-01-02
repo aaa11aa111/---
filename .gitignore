@@ -1,0 +1,8 @@
+node_modules
+.vscode
+config.json
+*.dem
+*.bz2
+test.js
+manualLogin.js
+cases
